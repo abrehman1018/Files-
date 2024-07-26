@@ -1,0 +1,355 @@
+threat name,threat type
+Network-Based Effects,x-mitre-matrix
+Mobile ATT&CK,x-mitre-matrix
+Use Recent OS Version,course-of-action
+Application Vetting,course-of-action
+Application Developer Guidance,course-of-action
+Enterprise Policy,course-of-action
+User Guidance,course-of-action
+Do Not Mitigate,course-of-action
+Antivirus/Antimalware,course-of-action
+System Partition Integrity,course-of-action
+Encrypt Network Traffic,course-of-action
+Lock Bootloader,course-of-action
+Security Updates,course-of-action
+Deploy Compromised Device Detection Method,course-of-action
+Interconnection Filtering,course-of-action
+Caution with Device Administrator Access,course-of-action
+Attestation,course-of-action
+CarbonSteal,malware
+Cerberus,malware
+DroidJack,malware
+Rotexy,malware
+Stealth Mango,malware
+Allwinner,malware
+GoldenEagle,malware
+FlixOnline,malware
+Bread,malware
+Hornbill,malware
+Judy,malware
+OldBoot,malware
+Gooligan,malware
+SpyNote RAT,malware
+TrickMo,malware
+INSOMNIA,malware
+Dvmap,malware
+Zen,malware
+NotCompatible,malware
+AhRat,malware
+XLoader for Android,malware
+Trojan-SMS.AndroidOS.FakeInst.a,malware
+XLoader for iOS,malware
+AbstractEmu,malware
+Chameleon,malware
+Exodus,malware
+Dendroid,malware
+WireLurker,malware
+Desert Scorpion,malware
+Pegasus for iOS,malware
+Tangelo,malware
+RCSAndroid,malware
+Corona Updates,malware
+Skygofree,malware
+KeyRaider,malware
+ZergHelper,malware
+DoubleAgent,malware
+Twitoor,malware
+Fakecalls,malware
+S.O.V.A.,malware
+ANDROIDOS_ANSERVER.A,malware
+DualToy,malware
+Mandrake,malware
+HilalRAT,malware
+X-Agent for Android,malware
+DEFENSOR ID,malware
+BRATA,malware
+MazarBOT,malware
+Ginp,malware
+HummingWhale,malware
+eSurv,malware
+TangleBot,malware
+Monokle,malware
+Red Alert 2.0,malware
+ViceLeaker,malware
+FlyTrap,malware
+FakeSpy,malware
+SpyDealer,malware
+Concipit1248,malware
+RuMMS,malware
+Pegasus for Android,malware
+FrozenCell,malware
+AndroidOS/MalLocker.B,malware
+SharkBot,malware
+RedDrop,malware
+CHEMISTGAMES,malware
+YiSpecter,malware
+Trojan-SMS.AndroidOS.Agent.ao,malware
+BOULDSPY,malware
+Anubis,malware
+AndroRAT,malware
+FinFisher,malware
+Agent Smith,malware
+Asacub,malware
+GPlayed,malware
+EventBot,malware
+HenBox,malware
+Riltok,malware
+GolfSpy,malware
+Pallas,malware
+Circles,malware
+Tiktok Pro,malware
+PJApps,malware
+ShiftyBug,malware
+HummingBad,malware
+Exobot,malware
+OBAD,malware
+Android/Chuli.A,malware
+Charger,malware
+Drinik,malware
+Trojan-SMS.AndroidOS.OpFake.a,malware
+XcodeGhost,malware
+SilkBean,malware
+WolfRAT,malware
+BusyGasper,malware
+BrainTest,malware
+TERRACOTTA,malware
+Escobar,malware
+Triada,malware
+Golden Cup,malware
+FluBot,malware
+ViperRAT,malware
+Adups,malware
+SimBad,malware
+Android/AdDisplay.Ashas,malware
+Phenakite,malware
+Marcher,malware
+TianySpy,malware
+Sunbird,malware
+DressCode,malware
+Gustuff,malware
+FlexiSpy,tool
+Xbot,tool
+Initial Access,x-mitre-tactic
+Exfiltration,x-mitre-tactic
+Persistence,x-mitre-tactic
+Privilege Escalation,x-mitre-tactic
+Command and Control,x-mitre-tactic
+Execution,x-mitre-tactic
+Impact,x-mitre-tactic
+Credential Access,x-mitre-tactic
+Collection,x-mitre-tactic
+Lateral Movement,x-mitre-tactic
+Defense Evasion,x-mitre-tactic
+Network Effects,x-mitre-tactic
+Discovery,x-mitre-tactic
+Remote Service Effects,x-mitre-tactic
+Scheduled Task/Job,attack-pattern
+Code Injection,attack-pattern
+Adversary-in-the-Middle,attack-pattern
+Abuse Elevation Control Mechanism,attack-pattern
+Remote Access Software,attack-pattern
+Malicious SMS Message,attack-pattern
+Obtain Device Cloud Backups,attack-pattern
+Uninstall Malicious Application,attack-pattern
+Indicator Removal on Host,attack-pattern
+Supply Chain Compromise,attack-pattern
+Impersonate SS7 Nodes,attack-pattern
+Match Legitimate Name or Location,attack-pattern
+Protected User Data,attack-pattern
+Asymmetric Cryptography,attack-pattern
+Software Discovery,attack-pattern
+Process Discovery,attack-pattern
+Call Log,attack-pattern
+Security Software Discovery,attack-pattern
+Ptrace System Calls,attack-pattern
+Impair Defenses,attack-pattern
+Abuse Accessibility Features,attack-pattern
+Exploitation of Remote Services,attack-pattern
+Web Protocols,attack-pattern
+Steal Application Access Token,attack-pattern
+User Evasion,attack-pattern
+Virtualization/Sandbox Evasion,attack-pattern
+Keychain,attack-pattern
+Application Versioning,attack-pattern
+Access Sensitive Data in Device Logs,attack-pattern
+Command and Scripting Interpreter,attack-pattern
+Disable or Modify Tools,attack-pattern
+Ingress Tool Transfer,attack-pattern
+Dynamic Resolution,attack-pattern
+Exploit via Radio Interfaces,attack-pattern
+Network Service Scanning,attack-pattern
+User Evasion,attack-pattern
+Exfiltration Over C2 Channel,attack-pattern
+Exploitation for Privilege Escalation,attack-pattern
+Call Control,attack-pattern
+Exfiltration Over Unencrypted Non-C2 Protocol,attack-pattern
+Broadcast Receivers,attack-pattern
+Commonly Used Port,attack-pattern
+Eavesdrop on Insecure Network Communication,attack-pattern
+Access Notifications,attack-pattern
+Network Traffic Capture or Redirection,attack-pattern
+Input Prompt,attack-pattern
+Exfiltration Over Alternative Protocol,attack-pattern
+Internet Connection Discovery,attack-pattern
+Boot or Logon Initialization Scripts,attack-pattern
+Execution Guardrails,attack-pattern
+GUI Input Capture,attack-pattern
+Access Contact List,attack-pattern
+Compromise Client Software Binary,attack-pattern
+Software Packing,attack-pattern
+Exploit SS7 to Track Device Location,attack-pattern
+Native API,attack-pattern
+Deliver Malicious App via Other Means,attack-pattern
+Remotely Wipe Data Without Authorization,attack-pattern
+Exploitation for Client Execution,attack-pattern
+Proxy Through Victim,attack-pattern
+Domain Generation Algorithms,attack-pattern
+Access Calendar Entries,attack-pattern
+Rogue Wi-Fi Access Points,attack-pattern
+Foreground Persistence,attack-pattern
+Replication Through Removable Media,attack-pattern
+Audio Capture,attack-pattern
+Hijack Execution Flow,attack-pattern
+Unix Shell,attack-pattern
+Application Layer Protocol,attack-pattern
+Download New Code at Runtime,attack-pattern
+Exploitation for Initial Access,attack-pattern
+Remotely Track Device Without Authorization,attack-pattern
+System Checks,attack-pattern
+Stored Application Data,attack-pattern
+Screen Capture,attack-pattern
+Transmitted Data Manipulation,attack-pattern
+Manipulate App Store Rankings or Ratings,attack-pattern
+URI Hijacking,attack-pattern
+Compromise Software Dependencies and Development Tools,attack-pattern
+Evade Analysis Environment,attack-pattern
+URI Hijacking,attack-pattern
+Subvert Trust Controls,attack-pattern
+Access Call Log,attack-pattern
+Geofencing,attack-pattern
+Device Administrator Permissions,attack-pattern
+Keychain,attack-pattern
+Modify Cached Executable Code,attack-pattern
+Device Type Discovery,attack-pattern
+Uninstall Malicious Application,attack-pattern
+Delete Device Data,attack-pattern
+Carrier Billing Fraud,attack-pattern
+URL Scheme Hijacking,attack-pattern
+Bidirectional Communication,attack-pattern
+Non-Standard Port,attack-pattern
+Compromise Software Supply Chain,attack-pattern
+Dead Drop Resolver,attack-pattern
+Location Tracking,attack-pattern
+Device Administrator Permissions,attack-pattern
+Device Lockout,attack-pattern
+Remote Device Management Services,attack-pattern
+Data Destruction,attack-pattern
+Attack PC via USB Connection,attack-pattern
+Rogue Cellular Base Station,attack-pattern
+SIM Card Swap,attack-pattern
+Input Capture,attack-pattern
+Generate Traffic from Victim,attack-pattern
+Disguise Root/Jailbreak Indicators,attack-pattern
+Masquerade as Legitimate Application,attack-pattern
+Calendar Entries,attack-pattern
+File Deletion,attack-pattern
+Device Lockout,attack-pattern
+Keylogging,attack-pattern
+SMS Control,attack-pattern
+Disguise Root/Jailbreak Indicators,attack-pattern
+Exfiltration Over Other Network Medium,attack-pattern
+Process Injection,attack-pattern
+Symmetric Cryptography,attack-pattern
+Broadcast Receivers,attack-pattern
+Wi-Fi Discovery,attack-pattern
+Compromise Hardware Supply Chain,attack-pattern
+Clipboard Data,attack-pattern
+Modify System Partition,attack-pattern
+Data Manipulation,attack-pattern
+SMS Messages,attack-pattern
+Web Service,attack-pattern
+System Runtime API Hijacking,attack-pattern
+Credentials from Password Store,attack-pattern
+Hooking,attack-pattern
+Install Insecure or Malicious Configuration,attack-pattern
+File and Directory Discovery,attack-pattern
+Obfuscated Files or Information,attack-pattern
+Input Injection,attack-pattern
+Network Denial of Service,attack-pattern
+Compromise Application Executable,attack-pattern
+Event Triggered Execution,attack-pattern
+System Network Configuration Discovery,attack-pattern
+Manipulate Device Communication,attack-pattern
+Video Capture,attack-pattern
+One-Way Communication,attack-pattern
+Deliver Malicious App via Authorized App Store,attack-pattern
+Data Encrypted for Impact,attack-pattern
+Prevent Application Removal,attack-pattern
+System Network Connections Discovery,attack-pattern
+Phishing,attack-pattern
+SSL Pinning,attack-pattern
+Lockscreen Bypass,attack-pattern
+Command-Line Interface,attack-pattern
+Contact List,attack-pattern
+Data from Local System,attack-pattern
+Account Access Removal,attack-pattern
+System Information Discovery,attack-pattern
+Clipboard Modification,attack-pattern
+Archive Collected Data,attack-pattern
+Geofencing,attack-pattern
+Network Information Discovery,attack-pattern
+Capture SMS Messages,attack-pattern
+Conceal Multimedia Files,attack-pattern
+Endpoint Denial of Service,attack-pattern
+Out of Band Data,attack-pattern
+Encrypted Channel,attack-pattern
+Exploit TEE Vulnerability,attack-pattern
+Suppress Application Icon,attack-pattern
+Modify Trusted Execution Environment,attack-pattern
+Downgrade to Insecure Protocols,attack-pattern
+Masquerading,attack-pattern
+Generate Fraudulent Advertising Revenue,attack-pattern
+Steganography,attack-pattern
+Exploit SS7 to Redirect Phone Calls/SMS,attack-pattern
+Hide Artifacts,attack-pattern
+Code Signing Policy Modification,attack-pattern
+Domain Generation Algorithms,attack-pattern
+Drive-By Compromise,attack-pattern
+Suppress Application Icon,attack-pattern
+Host Status,x-mitre-data-component
+API Calls,x-mitre-data-component
+Network Traffic Content,x-mitre-data-component
+C0033,campaign
+Permissions Requests,x-mitre-data-component
+System Settings,x-mitre-data-component
+Bouncing Golf,intrusion-set
+Network Communication,x-mitre-data-component
+Network Traffic Flow,x-mitre-data-component
+Windshift,intrusion-set
+Permissions Request,x-mitre-data-component
+Command Execution,x-mitre-data-component
+Process Metadata,x-mitre-data-component
+APT-C-23,intrusion-set
+System Notifications,x-mitre-data-component
+Dark Caracal,intrusion-set
+Scattered Spider,intrusion-set
+APT28,intrusion-set
+BITTER,intrusion-set
+Operation Dust Storm,campaign
+Process Creation,x-mitre-data-component
+Earth Lusca,intrusion-set
+Network Connection Creation,x-mitre-data-component
+Confucius,intrusion-set
+UNC788,intrusion-set
+MoustachedBouncer,intrusion-set
+Application Assets,x-mitre-data-component
+Protected Configuration,x-mitre-data-component
+Sandworm Team,intrusion-set
+Process Termination,x-mitre-data-component
+PROMETHIUM,intrusion-set
+Sensor Health,x-mitre-data-source
+Application Vetting,x-mitre-data-source
+Network Traffic,x-mitre-data-source
+User Interface,x-mitre-data-source
+Command,x-mitre-data-source
+Process,x-mitre-data-source
